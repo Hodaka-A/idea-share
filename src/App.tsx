@@ -1,7 +1,12 @@
+import AIChat from "./Page/AIChat";
+
+
 function App() {
-  return <>
-  <h1>うほうほ</h1>
-  </>;
+  return (
+    <>
+      <AIChat />
+    </>
+  );
 }
 
 export default App;
